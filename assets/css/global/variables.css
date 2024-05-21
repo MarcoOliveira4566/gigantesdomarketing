@@ -1,0 +1,28 @@
+/*
+
+VARIABLES
+
+*/
+
+/* Cores */
+
+:root {
+
+--cor-branco: #FFFFFF;
+--cor-preto: #0B0600;
+
+--cor-primaria-1: #FFE500;
+--cor-primaria-2: #ff990042;
+
+--cor-cinza-1: #D0BBBB;
+
+}
+
+/* Fontes */
+
+:root {
+
+--fonte-bold: 'figtree-bold';
+--fonte-regular: 'figtree-regular';
+
+}

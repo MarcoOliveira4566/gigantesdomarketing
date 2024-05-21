@@ -1,0 +1,19 @@
+/*
+FONTES
+*/
+
+@font-face {
+  font-family: 'figtree-bold';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('../../../files/fonts/Figtree-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'figtree-regular';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('../../../files/fonts/Figtree-Regular.woff') format('woff');
+}
